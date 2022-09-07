@@ -1,17 +1,7 @@
 # ui_trace20220907
 
-A new Flutter project.
+2022年9月7日の定例会のUIトレース
 
-## Getting Started
+## 実装後の様子
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ui_trace20220907
+https://user-images.githubusercontent.com/85224998/188841552-b80c2875-78d5-4a20-9435-90fdecf4b28d.mp4
